@@ -5,8 +5,8 @@ Esta atividade avaliativa tem como principal objetivo compreender melhor o conce
 <div align="center"><br>
   
   | Threads | Valor de Pi | Tempo Médio | Desvio Padrão|
-  |--- |--- |--- | -- |
-  | 1 | 3,14... | ... | -- |
-  | 2 | 3,14... | ... | -- |
+  |--- |--- |--- |-- |
+  | 1 | 3,14... |... |-- |
+  | 2 | 3,14... |... |-- |
   
 </div>
