@@ -14,6 +14,7 @@ Esta atividade avaliativa tem como principal objetivo compreender melhor o conce
   | 5 | 109.0 ms | 
 
   ##### Valor de π = 3.1415936535887745
+  ##### Tempo médio de execução = 112,2 ms
   ##### Desvio Padrão = 7,9694416366518 ms
 <hr>
 
@@ -28,6 +29,7 @@ Esta atividade avaliativa tem como principal objetivo compreender melhor o conce
   | 5 | 68.0 ms | 
 
   ##### Valor de π = 3.141597653584692
+  ##### Tempo médio de execução = 67,6 ms
   ##### Desvio Padrão = 3,0066592756745 ms
   <hr>
 
@@ -42,6 +44,7 @@ Esta atividade avaliativa tem como principal objetivo compreender melhor o conce
   | 5 | 63.0 ms | 
 
   ##### Valor de π = 3.14160832023367
+  ##### Tempo médio de execução = 55 ms
   ##### Desvio Padrão = 5,0199601592044 ms
 <hr>
 
@@ -56,6 +59,7 @@ Esta atividade avaliativa tem como principal objetivo compreender melhor o conce
   | 5 | 63.0 ms | 
 
   ##### Valor de π = 3.1416351392062585
+  ##### Tempo médio de execução = 66,4 ms
   ##### Desvio Padrão = 4,4988887516807 ms
 <hr>
 
@@ -70,6 +74,7 @@ Esta atividade avaliativa tem como principal objetivo compreender melhor o conce
   | 5 | 71.0 ms | 
 
   ##### Valor de π = 3.1416998365119575
+  ##### Tempo médio de execução = 69,8 ms
   ##### Desvio Padrão = 5,4184868736576 ms
 <hr>
 
@@ -84,5 +89,6 @@ Esta atividade avaliativa tem como principal objetivo compreender melhor o conce
   | 5 | 102.0 ms | 
 
   ##### Valor de π = 3.141851395629415
+  ##### Tempo médio de execução = 96,2 ms
   ##### Desvio Padrão = 19,085072700935 ms
   
