@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) throws InterruptedException {
         long inicioExecucao = System.currentTimeMillis();
         // calculo cal = new calculo();
-        int numThreads = 1;
+        int numThreads = 32;
         double inicio = 0, fim = 0, quant = 1000000 / numThreads;
         Thread[] threads = new Thread[numThreads];
         double[] list = new double[numThreads];
@@ -29,7 +29,7 @@ public class Main {
         // Thread t2 = new Thread(new calculoRunnable("#thread 2", 0, 20));
         long fimExecucao = System.currentTimeMillis();
         double tempoExecucao = (double) (fimExecucao - inicioExecucao);
-        System.out.println(tempoExecucao);
+        System.out.println("Tempo de Execução: " + tempoExecucao);
         System.out.println("Programa Finalizado");
     }
 
